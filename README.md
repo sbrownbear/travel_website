@@ -1,1 +1,3 @@
-# travel_website
+## Сайт "Сайт для покупки билетов"
+
+Результат выполненной работы вы можете посмотреть тут: [ссылка](https://sbrownbear.github.io/travel_website/)
